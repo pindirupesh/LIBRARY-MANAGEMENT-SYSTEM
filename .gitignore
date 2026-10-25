@@ -1,0 +1,11 @@
+# Compiled output
+out/
+*.class
+
+# Issue log generated at runtime
+issue_log.txt
+
+# IDE
+.idea/
+*.iml
+.vscode/
